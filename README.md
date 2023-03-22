@@ -20,17 +20,8 @@ Experienced with all stages of the development cycle for dynamic projects.
 Good background in numerous programming languages. My passion is developing my skills and personal level.
 
 Skills: 
-*HTML 
-*Css 
-*Javascript 
-*c++
-*c 
-*react js 
-*React native 
-*redux 
-*material ui
-*firebase 
-*bootstrap
+*HTML *Css *Javascript *c++
+*c *react js *React native *redux *material ui*firebase *bootstrap
 
 - 🔭 I’m currently working on this page. 
 
