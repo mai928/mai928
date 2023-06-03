@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 
 
 ### Hi I'm Mai 👋
-#### I am front End Developer using react and cross plateform using react native
-![I am GitHub Readme Generator's creator](https://scontent.fcai19-6.fna.fbcdn.net/v/t39.30808-6/339078216_545347457668640_784807729785250649_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=pR4QTp8aU4UAX-iW49o&_nc_ht=scontent.fcai19-6.fna&oh=00_AfAPYeaiA0nyZVa3Lq6xZ1rLejuhLt9KWizxoXWNPl01mA&oe=64482475)
-##### I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+#### I am front End Developer using react and cross platform using react native
+![BeFunky-photo](https://github.com/mai928/mai928/assets/58111868/d14e31ff-4aa8-4b03-95bb-c2a2e84b1102)
 
-Skills: 
+
+
+##### I'm a skilled software developer with experience in JavaScript, and expertise in frameworks like React and React native . I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+
+### Skills: 
 * HTML
 * Css 
 * Javascript 
